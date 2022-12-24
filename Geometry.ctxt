@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Geometry
+comment1.params=side
+comment1.target=double\ calculateVolCube(double)
+comment2.params=length\ breadth\ height
+comment2.target=double\ calculateVolCuboid(double,\ double,\ double)
+comment3.params=radius
+comment3.target=double\ calculateVolSphere(double)
+comment4.params=radius\ height
+comment4.target=double\ calculateVolCylinder(double,\ double)
+numComments=5
